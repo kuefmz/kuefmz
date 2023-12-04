@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jenifer-tabita-ciuciu-kiss-073573176/" title="LinkedIn Profile" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:jenifer.girl.98@gmail.com">
+<a href="mailto:jenifer.tabita.ciuciu.kiss@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
