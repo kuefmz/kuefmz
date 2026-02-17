@@ -1,10 +1,10 @@
 <h1 align="center">🌻 Hey, I'm Jenifer! 🌻</h1>
 
-<h3 align="center">Data scientist 📈 & runner 🏃‍♀️ </h3>
+<h3 align="center">Data scientist / Agentic AI developer 📈 & runner 🏃‍♀️ </h3>
 
-- 🔭 I’m currently working as a data analytics and machine learning engineer
+- 🔭 I’m currently working as a AI and automation developer.
 - 🌱 I’m currently learning German 🇩🇪 and Spanish 🇪🇸
-- 👯 I’m looking to collaborate on Python-based data projects
+- 👯 I’m looking to collaborate on Python-based data and AI projects
 - ⚡ Fun fact: I love bad jokes! 
 
 
